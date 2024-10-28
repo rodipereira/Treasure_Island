@@ -3,4 +3,6 @@ This Python project is a fun, interactive text-based adventure game where the pl
 
 The game is designed to help beginners understand conditional logic and decision trees in Python while providing a narrative experience.
 
+
+# Diagram of the game !
 ![image](https://github.com/rodipereira/Treasure_Island/blob/main/Diagrama.png)
